@@ -10,18 +10,40 @@
         <link rel="stylesheet" href="styling.css">
       </head>
       <body>
+        <style>
+          h1 {
+            background-color: lightblue;
+          }
+          h2 {
+            background-color: rgb(142, 191, 66);
+          }
+          p {
+            background-color: hsl(147, 100%, 25%);
+          }
+          h3 {
+            background-color: rgba(255, 127, 80, 0.58);
+          }
+        </style>
         <div>
             <img src="5345829-3238348245-matri.jpg" alt="Shourav" class="center" />
           <h2>Bio on me</h2>
-          <p>Hey, This is Richard C., I am a Junior in Lehman College studying in Computer Science Major, and Bussiness Admin.
+          <style>
+            #grad {
+              height: 150px;
+              background-color: grey;/* For browsers that do not support gradients */
+              background-image: radial-gradient(#e6ebef, #1c87c9, #8ebf42);
+            }
+          </style>
+          <p div id="grad">
+            Hey, This is Richard C., I am a Junior in Lehman College studying in Computer Science Major, and Bussiness Admin.
              I currently work as a full time student.
               I love to stay fit and watch anime among other things. Some animes that I like are, Attack on Titan, Naruto, DBZ, Bleach, 
               Hero Academia and especially Akira.
-              I also know some programming languages, and trying to keep up with the changing world. </p>
+              I also know some programming languages, and trying to keep up with the changing world. </p></div>
             <table>
-              <h3>The source element</h3>
+              <h2>The source element</h2>
               <tr>
-                <td><p>Click on the play button to play a sound:</p>
+                <td><h3>Click on the play button to play a sound:</h3>
                   <audio controls>
                     <source src="Good.ogg" type="audio/ogg">
                     <source src="Good.mp3" type="audio/mpeg">
@@ -30,6 +52,6 @@
                 </td>
                 </tr>
              </table>
-           </div>
+         </div>
     </body>
  </html>
