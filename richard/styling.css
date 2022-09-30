@@ -6,42 +6,45 @@ table, th, td {
     border: 5px solid black;
     text-align: center;
     margin: auto;
-    width: 400px; 
+    width: 100px; 
     padding: 20px;
     font-family: 'Lexend Deca', sans-serif;
-    font-weight: 900;
+    font-weight: 100;
          
   }
 
   .center {
-    display: block;
+    display: inline-block;
     margin-left: auto;
     margin-right: auto;
-    width: 60%;
+    width: 10%;
   }
 
   img {
-    width: 270px;
+    width: 550px;
     border: 10px solid black;
+    padding: 0;
   }
 
   body {
 
     text-align: center;
+    margin-trim: auto;
+    min-height: auto;
     
     }
     
     /* Styling */
     
     body {
-      margin: auto;
-      width: 640px; 
-      padding: 50px;
+      margin: none;
+      width: 940px; 
+      padding: 10px;
       font-family: 'Lexend Deca', sans-serif; 
       color: black;    
     }
     
     body, div, p {
-        font-size:  20px;
-        font-weight: 500;
+        font-size:  16px;
+        font-weight: 400;
     }
