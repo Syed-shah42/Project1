@@ -34,7 +34,7 @@ table, th, td {
     
     }
     
-    /* Styling */
+    // Styling //
     
     body {
       margin: none;
@@ -45,6 +45,54 @@ table, th, td {
     }
     
     body, div, p {
-        font-size:  16px;
+        font-size:  17px;
         font-weight: 400;
     }
+
+/**table, th, td {
+    border: 5px solid black;
+    text-align: center;
+  }
+table, th, td {
+    border: 5px solid black;
+    text-align: center;
+    margin: auto;
+    width: 400px; 
+    padding: 20px;
+    font-family: 'Lexend Deca', sans-serif;
+    font-weight: 900;
+         
+  }
+
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+  }
+
+  img {
+    width: 270px;
+    border: 10px solid black;
+  }
+
+  body {
+
+    text-align: center;
+    
+    }
+    
+    // Styling //
+    
+    body {
+      margin: auto;
+      width: 640px; 
+      padding: 50px;
+      font-family: 'Lexend Deca', sans-serif; 
+      color: black;    
+    }
+    
+    body, div, p {
+        font-size:  20px;
+        font-weight: 500;
+    }**/
