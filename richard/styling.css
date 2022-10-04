@@ -34,7 +34,7 @@ table, th, td {
     
     }
     
-    // Styling //
+    /* Styling */
     
     body {
       margin: none;
@@ -56,10 +56,10 @@ table, th, td {
  top: 3em;
     }
 }
-.unit: hover{
+.unit hover{
   opacity:1;
 }
-.unit: label {
+.unit label {
  cursor: pointer;
 }
 .unit input {
