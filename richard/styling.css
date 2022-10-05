@@ -6,10 +6,10 @@ table, th, td {
     border: 5px solid black;
     text-align: center;
     margin: auto;
-    width: 100px; 
+    width: 400px; 
     padding: 20px;
     font-family: 'Lexend Deca', sans-serif;
-    font-weight: 100;
+    font-weight: 900;
          
   }
 
@@ -17,11 +17,11 @@ table, th, td {
     display: inline-block;
     margin-left: auto;
     margin-right: auto;
-    width: 10%;
+    width: 70%;
   }
 
   img {
-    width: 450px;
+    width: 470px;
     border: 10px solid black;
     padding: 0;
   }
@@ -29,7 +29,6 @@ table, th, td {
   body {
 
     text-align: center;
-    margin-trim: auto;
     min-height: 250px;
     
     }
@@ -38,15 +37,15 @@ table, th, td {
     
     body {
       margin: none;
-      width: 940px; 
-      padding: 0px;
+      width: 640px; 
+      padding: 50px;
       font-family: 'Lexend Deca', sans-serif; 
       color: black;    
     }
     
     body, div, p {
-        font-size:  17px;
-        font-weight: 400;
+        font-size:  20px;
+        font-weight: 500;
     }
 @media (max-width: 800px) {
   .unit {
