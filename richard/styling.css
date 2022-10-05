@@ -49,7 +49,7 @@ table, th, td {
         font-weight: 400;
     }
 
-@media (max-width: 1000px){
+@media (max-width: 950px){
     .unit {
   position: absolute;
  left" 3em;
@@ -64,8 +64,8 @@ table, th, td {
 }
 .unit input {
   clip: rect(0 0 0 0);
-  -webkit-clip-path: inset(75%);
-          clip-path: inset(75%);
+  -webkit-clip-path: inset(50%);
+          clip-path: inset(50%);
   height: 1px;
   overflow: hidden;
   position: absolute;
@@ -87,7 +87,7 @@ table, th, td {
   content: '';
   display: block;
   background: var(--clr-light);
-  border-radius: 75%;
+  border-radius: 50%;
   height: 1rem;
   margin: 3px;
   margin-left: auto;
