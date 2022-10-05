@@ -1,4 +1,4 @@
-/**table, th, td {
+table, th, td {
     border: 5px solid black;
     text-align: center;
   }
@@ -57,10 +57,10 @@ table, th, td {
   }
   body {
     height: 100vh;
-  }**/
+  }
 
 
-table, th, td {
+/**table, th, td {
     border: 5px solid black;
     text-align: center;
   }
@@ -93,8 +93,6 @@ table, th, td {
     
     }
     
-    /* Styling */
-    
     body {
       margin: auto;
       width: 640px; 
@@ -107,3 +105,4 @@ table, th, td {
         font-size:  20px;
         font-weight: 500;
     }
+**/
