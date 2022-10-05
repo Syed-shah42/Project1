@@ -48,17 +48,6 @@ table, th, td {
         font-size:  17px;
         font-weight: 400;
     }
-@media (min-width: 900px) {
-  :root {
-    --fs-h1: 1.5rem;
-    --fs-h2: 2.25rem;
-    --fs-body: 1rem;
-    --fs-xl: 4.5rem;
-  }
-  body {
-    height: 100vh;
-  }
-
 @media (max-width: 900px) {
   .unit {
     position: absolute;
