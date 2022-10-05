@@ -30,7 +30,7 @@ table, th, td {
 
     text-align: center;
     margin-trim: auto;
-    min-height: 150px;
+    min-height: 250px;
     
     }
     
@@ -39,7 +39,7 @@ table, th, td {
     body {
       margin: none;
       width: 940px; 
-      padding: 10px;
+      padding: 0px;
       font-family: 'Lexend Deca', sans-serif; 
       color: black;    
     }
@@ -48,7 +48,7 @@ table, th, td {
         font-size:  17px;
         font-weight: 400;
     }
-@media (max-width: 900px) {
+@media (max-width: 800px) {
   .unit {
     position: absolute;
     left: 3em;
