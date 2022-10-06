@@ -38,7 +38,7 @@ table, th, td {
     body {
       margin: none;
       width: 640px; 
-      padding: 50px;
+      padding: .5px;
       font-family: 'Lexend Deca', sans-serif; 
       color: black;    
     }
