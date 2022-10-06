@@ -17,7 +17,7 @@ table, th, td {
     display: inline-block;
     margin-left: auto;
     margin-right: auto;
-    width: 60%;
+    width: 70%;
   }
 
   img {
@@ -36,7 +36,7 @@ table, th, td {
     /* Styling */
     
     body {
-      margin: auto;
+      margin: none;
       width: 640px; 
       padding: 50px;
       font-family: 'Lexend Deca', sans-serif; 
