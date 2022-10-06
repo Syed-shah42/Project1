@@ -14,14 +14,15 @@ table, th, td {
   }
 
   .center {
-    display: inline-block;
+    display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 5%;
+    width: 60%;
   }
 
   img {
-    width: 470px;
+    width: 1000px;
+    height: 470px;
     border: 10px solid black;
     padding: 0;
   }
