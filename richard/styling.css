@@ -1,4 +1,4 @@
-table, th, td {
+/**table, th, td {
     border: 5px solid black;
     text-align: center;
   }
@@ -32,10 +32,7 @@ table, th, td {
     text-align: center;
     min-height: 250px;
     
-    }
-    
-    /* Styling */
-    
+    }    
     body {
       margin: none;
       width: 640px; 
@@ -98,8 +95,8 @@ table, th, td {
 
 :checked ~ .unit__toggle::after {
   margin-left: 3px;
-}
-/**table, th, td {
+}**/
+table, th, td {
     border: 5px solid black;
     text-align: center;
   }
@@ -144,4 +141,3 @@ table, th, td {
         font-size:  20px;
         font-weight: 500;
     }
-**/
