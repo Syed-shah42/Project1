@@ -119,13 +119,16 @@ table, th, td {
   }
 
   img {
-    width: 270px;
+    width: 500px;
+    height: 370px;
     border: 10px solid black;
+    padding: 0;
   }
 
   body {
 
     text-align: center;
+  min-height: 250px;
     
     }
     
