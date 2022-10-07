@@ -130,9 +130,9 @@ table, th, td {
     }
     
     body {
-      margin: auto;
+      margin: none;
       width: 640px; 
-      padding: 50px;
+      padding: 10px;
       font-family: 'Lexend Deca', sans-serif; 
       color: black;    
     }
